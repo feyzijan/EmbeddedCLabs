@@ -1,0 +1,7 @@
+# tells git not to track folders created when compiling 
+# Ignoring files according to http://microchip.wikidot.com/faq:72
+build/
+dist/
+nbproject/Makefile-*
+nbproject/Package-*
+nbproject/private/

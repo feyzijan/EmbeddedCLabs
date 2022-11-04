@@ -1,0 +1,3 @@
+# tells git not to track folders created when compiling 
+build/
+dist/
